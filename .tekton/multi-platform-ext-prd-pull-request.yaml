@@ -11,7 +11,7 @@ metadata:
       == "main"
   creationTimestamp: null
   labels:
-    appstudio.openshift.io/application: multi-platform-ext-prd
+    appstudio.openshift.io/application: mpc-test
     appstudio.openshift.io/component: gbenhaim-multi-platform-ext-prd
     pipelines.appstudio.openshift.io/type: build
   name: multi-platform-ext-prd-on-pull-request

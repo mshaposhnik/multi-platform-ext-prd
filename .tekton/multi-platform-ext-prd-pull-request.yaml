@@ -516,7 +516,7 @@ spec:
   workspaces:
     - name: workspace
       volumeClaimTemplate:
-          metadata:
+        metadata:
           creationTimestamp: null
         spec:
           accessModes:

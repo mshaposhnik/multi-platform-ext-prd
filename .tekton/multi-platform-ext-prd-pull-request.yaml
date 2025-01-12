@@ -262,7 +262,7 @@ spec:
           workspace: workspace-ppc64le
         - name: basic-auth
           workspace: git-auth
-    name: prefetch-dependencies
+    - name: prefetch-dependencies
       params:
         - name: input
           value: $(params.prefetch-input)
